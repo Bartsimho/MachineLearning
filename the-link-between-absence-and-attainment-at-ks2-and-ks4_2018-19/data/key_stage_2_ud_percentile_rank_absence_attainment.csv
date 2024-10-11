@@ -1,0 +1,122 @@
+time_period,time_identifier,geographic_level,country_code,country_name,version,school_type,key_stage,percentiles,percentile_groups,total_number_of_pupils_at_the_end_of_key_stage_2,number_reaching_the_expected_standard_in_rwm,number_reaching_the_higher_standard_in_rwm,percentage_reaching_the_expected_standard_in_rwm,percentage_reaching_the_higher_standard_in_rwm
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,Total,558581,378112,62797,67.7,11.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 3,0 - <1,Total,5433,4522,1148,83.2,21.1
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 4,1 - <2,Total,5745,4697,1139,81.8,19.8
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 5,2 - <3,Total,5690,4571,1082,80.3,19
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 6,3 - <4,Total,5374,4299,1033,80,19.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 7,4 - <5,Total,5471,4329,1051,79.1,19.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 8,5 - <6,Total,5899,4632,1054,78.5,17.9
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 9,6 - <7,Total,5640,4423,1023,78.4,18.1
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 10,7 - <8,Total,5537,4265,1009,77,18.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 11,8 - <9,Total,5655,4446,1003,78.6,17.7
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 12,9 - <10,Total,5323,4177,944,78.5,17.7
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 13,10 - <11,Total,5368,4168,926,77.6,17.3
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 14,11 - <12,Total,5768,4482,952,77.7,16.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 15,12 - <13,Total,5686,4340,910,76.3,16
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 16,13 - <14,Total,5536,4314,960,77.9,17.3
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 17,14 - <15,Total,5643,4287,865,76,15.3
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 18,15 - <16,Total,5938,4524,1000,76.2,16.8
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 19,16 - <17,Total,4988,3785,760,75.9,15.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 20,17 - <18,Total,6021,4524,898,75.1,14.9
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 21,18 - <19,Total,5581,4237,802,75.9,14.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 22,19 - <20,Total,5433,4126,827,75.9,15.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 23,20 - <21,Total,5566,4133,844,74.3,15.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 24,21 - <22,Total,5690,4314,874,75.8,15.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 25,22 - <23,Total,5510,4133,779,75,14.1
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 26,23 - <24,Total,5353,3997,831,74.7,15.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 27,24 - <25,Total,5977,4453,921,74.5,15.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 28,25 - <26,Total,5405,3970,756,73.5,14
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 29,26 - <27,Total,5460,4026,736,73.7,13.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 30,27 - <28,Total,5484,4078,809,74.4,14.8
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 31,28 - <29,Total,5821,4316,790,74.1,13.6
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 32,29 - <30,Total,5412,3919,759,72.4,14
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 33,30 - <31,Total,5696,4146,787,72.8,13.8
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 34,31 - <32,Total,5467,3970,734,72.6,13.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 35,32 - <33,Total,5838,4236,764,72.6,13.1
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 36,33 - <34,Total,5517,3991,699,72.3,12.7
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 37,34 - <35,Total,5476,3985,736,72.8,13.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 38,35 - <36,Total,5915,4294,804,72.6,13.6
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 39,36 - <37,Total,4987,3596,668,72.1,13.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 40,37 - <38,Total,5974,4237,758,70.9,12.7
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 41,38 - <39,Total,5565,3943,681,70.9,12.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 42,39 - <40,Total,5658,4068,703,71.9,12.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 43,40 - <41,Total,5851,4201,748,71.8,12.8
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 44,41 - <42,Total,4799,3384,613,70.5,12.8
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 45,42 - <43,Total,5848,4155,732,71,12.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 46,43 - <44,Total,5699,4089,677,71.7,11.9
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 47,44 - <45,Total,5690,4068,711,71.5,12.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 48,45 - <46,Total,5566,3939,621,70.8,11.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 49,46 - <47,Total,5513,3930,692,71.3,12.6
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 50,47 - <48,Total,5624,3896,649,69.3,11.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 51,48 - <49,Total,6015,4226,637,70.3,10.6
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 52,49 - <50,Total,5133,3574,566,69.6,11
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 53,50 - <51,Total,5287,3719,613,70.3,11.6
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 54,51 - <52,Total,6097,4216,663,69.1,10.9
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 55,52 - <53,Total,5303,3707,563,69.9,10.6
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 56,53 - <54,Total,5615,3833,620,68.3,11
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 57,54 - <55,Total,5669,3892,617,68.7,10.9
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 58,55 - <56,Total,5610,3892,627,69.4,11.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 59,56 - <57,Total,5646,3853,622,68.2,11
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 60,57 - <58,Total,5500,3779,585,68.7,10.6
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 61,58 - <59,Total,5639,3804,594,67.5,10.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 62,59 - <60,Total,5308,3581,566,67.5,10.7
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 63,60 - <61,Total,5821,3941,542,67.7,9.3
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 64,61 - <62,Total,5713,3881,541,67.9,9.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 65,62 - <63,Total,5641,3793,567,67.2,10.1
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 66,63 - <64,Total,5404,3595,508,66.5,9.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 67,64 - <65,Total,5568,3680,523,66.1,9.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 68,65 - <66,Total,5812,3843,554,66.1,9.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 69,66 - <67,Total,5405,3608,484,66.8,9
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 70,67 - <68,Total,5637,3712,521,65.9,9.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 71,68 - <69,Total,5413,3550,484,65.6,8.9
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 72,69 - <70,Total,5485,3600,509,65.6,9.3
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 73,70 - <71,Total,5711,3704,493,64.9,8.6
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 74,71 - <72,Total,5710,3660,495,64.1,8.7
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 75,72 - <73,Total,5559,3564,458,64.1,8.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 76,73 - <74,Total,5538,3518,465,63.5,8.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 77,74 - <75,Total,5576,3545,454,63.6,8.1
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 78,75 - <76,Total,5603,3508,451,62.6,8
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 79,76 - <77,Total,5648,3542,444,62.7,7.9
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 80,77 - <78,Total,5486,3410,407,62.2,7.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 81,78 - <79,Total,5617,3513,450,62.5,8
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 82,79 - <80,Total,5657,3484,389,61.6,6.9
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 83,80 - <81,Total,5518,3441,406,62.4,7.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 84,81 - <82,Total,5669,3427,372,60.5,6.6
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 85,82 - <83,Total,5523,3282,366,59.4,6.6
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 86,83 - <84,Total,5582,3307,364,59.2,6.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 87,84 - <85,Total,5594,3250,354,58.1,6.3
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 88,85 - <86,Total,5580,3265,333,58.5,6
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 89,86 - <87,Total,5504,3185,358,57.9,6.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 90,87 - <88,Total,5694,3224,323,56.6,5.7
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 91,88 - <89,Total,5586,3176,320,56.9,5.7
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 92,89 - <90,Total,5557,3081,318,55.4,5.7
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 93,90 - <91,Total,5547,3038,276,54.8,5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 94,91 - <92,Total,5611,2985,297,53.2,5.3
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 95,92 - <93,Total,5581,2948,244,52.8,4.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 96,93 - <94,Total,5612,2861,231,51,4.1
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 97,94 - <95,Total,5573,2824,222,50.7,4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 98,95 - <96,Total,5595,2723,193,48.7,3.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 99,96 - <97,Total,5558,2554,176,46,3.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 100,97 - <98,Total,5612,2409,155,42.9,2.8
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 101,98 - <99,Total,5580,2201,124,39.4,2.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 102,99 - 100,Total,5589,1589,91,28.4,1.6
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,0-<5,27713,22418,5453,80.9,19.7
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,5-<10,28054,21943,5033,78.2,17.9
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,10-<15,28001,21591,4613,77.1,16.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,15-<20,27961,21196,4287,75.8,15.3
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,20-<25,28096,21030,4249,74.9,15.1
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,25-<30,27582,20309,3850,73.6,14
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,30-<35,27994,20328,3720,72.6,13.3
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,35-<40,28099,20138,3614,71.7,12.9
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,40-<45,27887,19897,3481,71.3,12.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,45-<50,27851,19565,3165,70.2,11.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,50-<55,27971,19367,3076,69.2,11
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,55-<60,27703,18909,2994,68.3,10.8
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,60-<65,28147,18890,2681,67.1,9.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,65-<70,27752,18313,2552,66,9.2
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,70-<75,28094,17991,2365,64,8.4
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,75-<80,28011,17457,2141,62.3,7.6
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,80-<85,27886,16707,1862,59.9,6.7
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,85-<90,27921,15931,1652,57.1,5.9
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,90-<95,27924,14656,1270,52.5,4.5
+201819,Academic year,National,E92000001,England,Final,State funded mainstream schools,Key stage 2,Total,95-100,27934,11476,739,41.1,2.6

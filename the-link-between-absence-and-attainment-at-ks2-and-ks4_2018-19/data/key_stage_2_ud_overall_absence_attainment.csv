@@ -1,0 +1,5 @@
+time_period,time_identifier,geographic_level,country_code,country_name,version,school_type,key_stage,attainment_ks2_rwm,eligible_pupils,sess_possible,sess_overall,sess_overall_percent
+201819,Academic year,National,E92000001,England,Final,State-funded mainstream schools,Key stage 2,Did not meet expected standard,180469,272525495,12893045,4.7
+201819,Academic year,National,E92000001,England,Final,State-funded mainstream schools,Key stage 3,Met expected standard,315315,476330485,16517246,3.5
+201819,Academic year,National,E92000001,England,Final,State-funded mainstream schools,Key stage 4,Met higher standard,62797,94890890,2530305,2.7
+201819,Academic year,National,E92000001,England,Final,State-funded mainstream schools,Key stage 5,Total,558581,843746870,31940596,3.8

@@ -1,0 +1,8 @@
+time_period,time_identifier,geographic_level,country_code,country_name,version,school_type,key_stage,attainment_ks4,eligible_pupils,sess_possible,sess_overall,sess_overall_percent
+201819,Academic year,National,E92000001,England,Final,State-funded mainstream schools,Key stage 4,Achieved grade 4 in English and maths,107593,73093330,3811071,5.2
+201819,Academic year,National,E92000001,England,Final,State-funded mainstream schools,Key stage 5,Achieved grade 9-5 in English and maths,222234,150923474,5592186,3.7
+201819,Academic year,National,E92000001,England,Final,State-funded mainstream schools,Key stage 6,Did not achieve grade 9-4 in English and maths,158338,107532625,9492989,8.8
+201819,Academic year,National,E92000001,England,Final,State-funded mainstream schools,Key stage 7,Total,488165,331549429,18896246,5.7
+201819,Academic year,National,E92000001,England,Final,State-funded mainstream schools,Key stage 8,Achieved grade 4 in all Ebacc components,40397,27428303,1028523,3.7
+201819,Academic year,National,E92000001,England,Final,State-funded mainstream schools,Key stage 9,Did not achieve grade 9-4 in all Ebacc components,358486,243527460,15965998,6.6
+201819,Academic year,National,E92000001,England,Final,State-funded mainstream schools,Key stage 10,Achieved grade 9-5 in all Ebacc components,89282,60593666,1901725,3.1

@@ -1,0 +1,184 @@
+The link between absence and attainment at KS2 and KS4
+2018/19 Academic year
+
+Description
+
+A summary of the link between absence and attainment at key stage 2 and key stage 4.
+
+This publication provides national level summary estimates from the school census, key stage 2 and key stage 4 data.
+
+Coverage
+
+The data covers state-funded mainstreams schools in England only.
+
+File formats and conventions
+
+All files are .csv format.
+
+Data files
+
+Key stage 2 absence and attainment overall
+
+Filename: key_stage_2_ud_overall_absence_attainment.csv
+Geographic levels: National
+Time period: 2018/19
+Content summary: This file contains the overall absence and attainment data at key stage 2.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name         |  Variable description
+--------------------  |  -------------------------------------------------------
+attainment_ks2_rwm    |  Attainment in reading, writing and maths at key stage 2
+eligible_pupils       |  Number of eligible pupils
+sess_overall          |  Number of overall absence sessions
+sess_overall_percent  |  Overall absence rate
+sess_possible         |  Number of sessions possible
+
+Footnotes:
+
+1. Overall absence is calculated over all of KS2. This is equivalent to years 3, 4, 5 and 6 over academic years 2015/16 to 2018/19. Only pupils for whom valid absence data exists for all academic years have been included.
+2. Includes those pupils who reached the expected standard in all of reading, writing and maths. The expected standard in reading and maths is a scaled score of 100 or above. The expected standard in writing is a teacher assessment of 'working at the expected standard' (EXS) or 'working at greater depth' (GDS).
+3. Attainment categories within this analysis are mutually exclusive, therefore pupils meeting the expected standard excludes those reaching the higher standard.
+4. Includes those pupils who reached a higher standard in all of reading, writing and maths. A higher standard is a scaled score of 110 or more in reading and maths and pupils assessed as 'working at greater depth' (GDS) in writing TA.
+5. Enrolment level absence information has been aggregated to pupil level using a unique pupil identifier, summing all absence and possible session data for each pupil regardless of which school the sessions were accrued at. See methodology.
+
+
+Key stage 2 attainment by absence percentage point
+
+Filename: key_stage_2_ud_percentage_point_absence_attainment.csv
+Geographic levels: National
+Time period: 2018/19
+Content summary: This file contains the overall absence percentage point bands and relates to attainment at key stage 2.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                     |  Variable description
+------------------------------------------------  |  --------------------------------------------------------------------------------------------------
+number_reaching_the_expected_standard_in_rwm      |  Total number of pupils reaching the expected standard in reading, writing and maths
+number_reaching_the_higher_standard_in_rwm        |  Total number of pupils reaching the higher standard in reading, writing and maths
+overall_absence_percent                           |  Overall absence rate
+overall_absence_percent_groups                    |  Overall absence percentile groups
+percentage_reaching_the_expected_standard_in_rwm  |  Percentage of pupils reaching the expected standard in reading, writing and maths
+percentage_reaching_the_higher_standard_in_rwm    |  Percentage of pupils reaching the higher standard in reading, writing and maths
+total_number_of_pupils_at_the_end_of_key_stage_2  |  Total number of eligible pupils at the end of key stage 2 in reading, writing and maths (combined)
+
+Footnotes:
+
+1. Overall absence is calculated over all of KS2. This is equivalent to years 3, 4, 5 and 6 over academic years 2015/16 to 2018/19. Only pupils for whom valid absence data exists for all academic years have been included.
+2. Includes data for pupils in state-funded mainstream schools.
+3. Includes those pupils who reached the expected standard in all of reading, writing and maths. The expected standard in reading and maths is a scaled score of 100 or above. The expected standard in writing is a teacher assessment of 'working at the expected standard' (EXS) or 'working at greater depth' (GDS).
+4. Attainment categories within this analysis are mutually exclusive, therefore pupils meeting the expected standard excludes those reaching the higher standard.
+5. Percentage point bands with less than 500 eligible pupils have not been included in the chart.
+6. Includes those pupils who reached a higher standard in all of reading, writing and maths. A higher standard is a scaled score of 110 or more in reading and maths and pupils assessed as 'working at greater depth' (GDS) in writing TA.
+7. Enrolment level absence information has been aggregated to pupil level using a unique pupil identifier, summing all absence and possible session data for each pupil regardless of which school the sessions were accrued at. See methodology.
+
+
+Key stage 2 attainment by absence percentile rank
+
+Filename: key_stage_2_ud_percentile_rank_absence_attainment.csv
+Geographic levels: National
+Time period: 2018/19
+Content summary: This file contains the overall absence split into equal pupil percentile bands and relates to attainment at key stage 2.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                     |  Variable description
+------------------------------------------------  |  --------------------------------------------------------------------------------------------------
+number_reaching_the_expected_standard_in_rwm      |  Total number of pupils reaching the expected standard in reading, writing and maths
+number_reaching_the_higher_standard_in_rwm        |  Total number of pupils reaching the higher standard in reading, writing and maths
+percentage_reaching_the_expected_standard_in_rwm  |  Percentage of pupils reaching the expected standard in reading, writing and maths
+percentage_reaching_the_higher_standard_in_rwm    |  Percentage of pupils reaching the higher standard in reading, writing and maths
+percentile_groups                                 |  Percentile groupings
+percentiles                                       |  Percentiles
+total_number_of_pupils_at_the_end_of_key_stage_2  |  Total number of eligible pupils at the end of key stage 2 in reading, writing and maths (combined)
+
+Footnotes:
+
+1. Overall absence is calculated over all of KS2. This is equivalent to years 3, 4, 5 and 6 over academic years 2015/16 to 2018/19. Only pupils for whom valid absence data exists for all academic years have been included.
+2. Includes data for pupils in state-funded mainstream schools.
+3. Includes those pupils who reached the expected standard in all of reading, writing and maths. The expected standard in reading and maths is a scaled score of 100 or above. The expected standard in writing is a teacher assessment of 'working at the expected standard' (EXS) or 'working at greater depth' (GDS).
+4. Attainment categories within this analysis are mutually exclusive, therefore pupils meeting the expected standard excludes those reaching the higher standard.
+5. Includes those pupils who reached a higher standard in all of reading, writing and maths. A higher standard is a scaled score of 110 or more in reading and maths and pupils assessed as 'working at greater depth' (GDS) in writing TA.
+6. Enrolment level absence information has been aggregated to pupil level using a unique pupil identifier, summing all absence and possible session data for each pupil regardless of which school the sessions were accrued at. See methodology.
+
+
+Key stage 4 absence and attainment overall
+
+Filename: key_stage_4_ud_absence_attainment_overall.csv
+Geographic levels: National
+Time period: 2018/19
+Content summary: This file contains the overall absence and attainment data at key stage 4.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name         |  Variable description
+--------------------  |  ----------------------------------
+attainment_ks4        |  Attainment at key stage 4
+eligible_pupils       |  Number of eligible pupils
+sess_overall          |  Number of overall absence sessions
+sess_overall_percent  |  Overall absence rate
+sess_possible         |  Number of sessions possible
+
+Footnotes:
+
+1. Includes data for pupils in state-funded mainstream schools.
+2. Attainment categories within this analysis are mutually exclusive. Among pupils achieving a grade 4 in English and maths GCSEs, some will have achieved a grade 5 or above in one subject. Among those not achieving grade 9-4, some will have achieved a grade 4 or above in one subject.
+3. Overall absence is calculated over all of KS4. This is equivalent to years 10 and 11 over academic years 2017/18 to 2018/19. Only pupils for whom valid absence data exists for all academic years have been included.
+4. Attainment categories within this analysis are mutually exclusive. Among pupils achieving a grade 4 in all components of the English Baccalaureate, some will have achieved a grade 5 or above in some components. Among those not achieving grade 9-4, some pupils will have achieved a grade 4 or above in some components.
+5. Enrolment level absence information has been aggregated to pupil level using a unique pupil identifier, summing all absence and possible session data for each pupil regardless of which school the sessions were accrued at. See methodology.
+
+
+Key stage 4 attainment by absence percentage point
+
+Filename: key_stage_4_ud_percentage_point_absence_attainment.csv
+Geographic levels: National
+Time period: 2018/19
+Content summary: This file contains overall absence percentage point bands and relates to attainment at key stage 4.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                                                                |  Variable description
+-------------------------------------------------------------------------------------------  |  -------------------------------------------------------------------------------------------
+number_of_pupils_who_achieved_all_components_of_the_English_Baccalaureate_grades_9_to_5      |  Number of pupils who achieved all components of the English Baccalaureate grades 9 to 5
+number_of_pupils_who_achieved_grades_9_to_4_in_English_and_maths                             |  Number of pupils who achieved grade  9 to 4 in English and maths
+number_of_pupils_who_achieved_grades_9_to_5_in_English_and_maths                             |  Number of pupils who achieved grades 9 to 5 in English and maths
+overall_absence_percent                                                                      |  Overall absence rate
+overall_absence_percent_groups                                                               |  Overall absence rate groupings
+percentage_of_pupils_who_achieved_all_components_of_the_English_Baccalaureate_grades_9_to_5  |  Percentage of pupils who achieved all components of the English Baccalaureate grades 9 to 5
+percentage_of_pupils_who_achieved_grades_9_to_4_in_English_and_maths                         |  Percentage of pupils who achieved grades  9 to 4 in English and maths
+percentage_of_pupils_who_achieved_grades_9_to_5_in_English_and_maths                         |  Percentage of pupils who achieved grades 9 to 5 in English and maths
+total_number_of_pupils_at_the_end_of_key_stage_4                                             |  Number eligible pupils
+
+Footnotes:
+
+1. Includes data for pupils in state-funded mainstream schools.
+2. Overall absence is calculated over all of KS4. This is equivalent to years 10 and 11 over academic years 2017/18 to 2018/19. Only pupils for whom valid absence data exists for all academic years have been included.
+3. Enrolment level absence information has been aggregated to pupil level using a unique pupil identifier, summing all absence and possible session data for each pupil regardless of which school the sessions were accrued at. See methodology.
+
+
+Key stage 4 attainment by absence percentile rank
+
+Filename: key_stage_4_ud_percentile_rank_absence_attainment.csv
+Geographic levels: National
+Time period: 2018/19
+Content summary: This file contains the overall absence split into equal pupil percentile bands and relates to attainment at key stage 4.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                                                                |  Variable description
+-------------------------------------------------------------------------------------------  |  -------------------------------------------------------------------------------------------
+number_of_pupils_who_achieved_all_components_of_the_English_Baccalaureate_grades_9_to_5      |  Number of pupils who achieved all components of the English Baccalaureate grades 9 to 5
+number_of_pupils_who_achieved_grades_9_to_4_in_English_and_maths                             |  Number of pupils who achieved grade  9 to 4 in English and maths
+number_of_pupils_who_achieved_grades_9_to_5_in_English_and_maths                             |  Number of pupils who achieved grades 9 to 5 in English and maths
+percentage_of_pupils_who_achieved_all_components_of_the_English_Baccalaureate_grades_9_to_5  |  Percentage of pupils who achieved all components of the English Baccalaureate grades 9 to 5
+percentage_of_pupils_who_achieved_grades_9_to_4_in_English_and_maths                         |  Percentage of pupils who achieved grades  9 to 4 in English and maths
+percentage_of_pupils_who_achieved_grades_9_to_5_in_English_and_maths                         |  Percentage of pupils who achieved grades 9 to 5 in English and maths
+percentile_groups                                                                            |  Percentile groupings
+percentiles                                                                                  |  Percentiles
+total_number_of_pupils_at_the_end_of_key_stage_4                                             |  Number eligible pupils
+
+Footnotes:
+
+1. Includes data for pupils in state-funded mainstream schools.
+2. Overall absence is calculated over all of KS4. This is equivalent to years 10 and 11 over academic years 2017/18 to 2018/19. Only pupils for whom valid absence data exists for all academic years have been included.
+3. Enrolment level absence information has been aggregated to pupil level using a unique pupil identifier, summing all absence and possible session data for each pupil regardless of which school the sessions were accrued at. See methodology.
